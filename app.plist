@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://qdcu01.baidupcs.com/file/8113559c5714e5e74c942d55fbc1f689?bkt=p3-0000105ef7fb4ee75f7609b07082d027ed81&fid=1918408162-250528-43102283731725&time=1537268019&sign=FDTAXGERLQBHSKW-DCb740ccc5511e5e8fedcff06b081203-t5XmS7GZyMLNo%2FlUzfoGGGb54As%3D&to=65&size=36610806&sta_dx=36610806&sta_cs=2&sta_ft=ipa&sta_ct=0&sta_mt=0&fm2=MH%2CQingdao%2CAnywhere%2C%2Cguangdong%2Ccnc&resv0=cdnback&resv1=0&vuk=1918408162&iv=0&htype=&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=0000105ef7fb4ee75f7609b07082d027ed81&sl=76480590&expires=8h&rt=pr&r=379199603&mlogid=6048392688032488818&vbdid=2293515272&fin=Aloha+1.5.2.ipa&fn=Aloha+1.5.2.ipa&rtype=1&dp-logid=6048392688032488818&dp-callid=0.1.1&hps=1&tsl=80&csl=80&csign=P3ygpVREEXD6AhVviR7GVraYHL0%3D&so=0&ut=6&uter=4&serv=0&uc=4192912830&ti=78cccb630bb0656ebe37335865fb1fe0daabd367e848965d&by=themis</string>
+					<string>https://cvws.icloud-content.com/B/AZ6Bw3rzRdoJmpuTkgAPZSihYAFMAd15AM88Z2Mt0DupZOJIc63IFhX3/%E9%85%B7%E7%8B%97%E9%9F%B3%E4%B9%90+4.0.7.ipa?o=AtwDwLHQ-9YZmCo6V8mnqWRwMO9Q8B4ShM-kQLUHPZ4j&v=1&x=3&a=B7J1MYXUhqwNxvq6_qApfXIydsQPA0g9RgEAAAM5PUY&e=1538496449&k=OTmdaiVleQlLwiNl14ba7g&fl=&r=58d29bd7-14bb-4295-8f97-6a5fa46475c7-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=63&s=U1pb9JLOLAlcA3S1blyQ8J3AWFk</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://gzcu01.baidupcs.com/file/1bf42a6ec548545cdc0de2fdcf61944f?bkt=p3-14001bf42a6ec548545cdc0de2fdcf61944f9585a2d2000000002c33&fid=1918408162-250528-1044111080986600&time=1537268074&sign=FDTAXGERLQBHSKW-DCb740ccc5511e5e8fedcff06b081203-aS636FDbQ4mMnlBcynm54tUNS7M%3D&to=86&size=11315&sta_dx=11315&sta_cs=0&sta_ft=png&sta_ct=0&sta_mt=0&fm2=MH%2CYangquan%2CAnywhere%2C%2Cguangdong%2Ccnc&resv0=cdnback&resv1=0&vuk=1918408162&iv=0&htype=&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=14001bf42a6ec548545cdc0de2fdcf61944f9585a2d2000000002c33&sl=76480590&expires=8h&rt=pr&r=687622825&mlogid=6048407497983613338&vbdid=2293515272&fin=AppIcon60x60%403x.png&fn=AppIcon60x60%403x.png&rtype=1&dp-logid=6048407497983613338&dp-callid=0.1.1&hps=1&tsl=80&csl=80&csign=P3ygpVREEXD6AhVviR7GVraYHL0%3D&so=0&ut=6&uter=4&serv=0&uc=4192912830&ti=26fa64dbec288224fdfd25c996854ca8c122fce3799bfee9305a5e1275657320&by=themis</string>
+					<string>https://github.com/newbusiness2018/ipa-ota/blob/master/AppIcon57x57%402x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.alohabrowser.alohabrowser</string>
+				<string>com.kugou.kugou1002</string>
 				<key>bundle-version</key>
-				<string>1</string>
+				<string>4.0.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Aloha</string>
+				<string>kugou</string>
 			</dict>
 		</dict>
 	</array>
